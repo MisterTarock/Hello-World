@@ -1,2 +1,2 @@
 # Hello-World
-my first try
+my first try with this awesomeness program
